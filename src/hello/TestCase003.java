@@ -1,0 +1,9 @@
+package hello;
+
+public class TestCase003 {
+
+    // this is unknown changed to feature branch
+    // that exists in master,
+    // now git will now know what to do with thos
+    // when we merge and conflict will happen
+}
